@@ -1,0 +1,21 @@
+Project,Name,Activity,Allocated date,Completed date,Month,Completion Status,Job reference,Time Allotment (Hours)
+Stratford L78 Exit,Sathishmurugan Annakodi,QC- Review,18-06-2025,20-06-2025,Jun,Completed,091BENG1258A0101702,48
+Stratford L78 Exit,Sathishmurugan Annakodi,Circuit validation_Adhoc,19-06-2025,21-06-2025,Jun,Completed,STRAT-L78-CV001,48
+Equinix Circuit Disconnect,Sathishmurugan Annakodi,Cramer Validation,18-06-2025,18-06-2025,Jun,Completed,091NAV1258A0101706,0
+NDE_BOD,Sathishmurugan Annakodi,QC- Review,18-06-2025,19-06-2025,Jun,Completed,NDE_BOD_REF001,24
+Stratford L78 Exit,Meena Devi,QC- Review,18-06-2025,20-06-2025,Jun,Completed,STRAT-L78-MD01,48
+Stratford L78 Exit,Meena Devi,Circuit validation_Adhoc,19-06-2025,20-06-2025,Jun,Completed,STRAT-L78-MD02,24
+Stratford L78 Exit,Ravi Kumar,Circuit validation_Adhoc,19-06-2025,21-06-2025,Jun,Completed,STRAT-L78-RK03,48
+Stratford L78 Exit,Ravi Kumar,Cramer Validation,20-06-2025,22-06-2025,Jun,Completed,STRAT-L78-RK04,48
+Stratford L78 Exit,Deepika Sharma,QC- Review,19-06-2025,20-06-2025,Jun,Completed,STRAT-L78-DS01,24
+Stratford L78 Exit,Deepika Sharma,Circuit validation_Adhoc,20-06-2025,22-06-2025,Jun,Completed,STRAT-L78-DS02,48
+Stratford L78 Exit,Anil Nair,QC- Review,18-06-2025,18-06-2025,Jun,Completed,STRAT-L78-AN01,0
+Stratford L78 Exit,Anil Nair,Cramer Validation,19-06-2025,21-06-2025,Jun,Completed,STRAT-L78-AN02,48
+Stratford L78 Exit,Nisha Singh,Circuit validation_Adhoc,20-06-2025,21-06-2025,Jun,Completed,STRAT-L78-NS01,24
+Stratford L78 Exit,Nisha Singh,Cramer Validation,21-06-2025,23-06-2025,Jun,Completed,STRAT-L78-NS02,48
+Stratford L78 Exit,Vikram Patel,QC- Review,20-06-2025,22-06-2025,Jun,Completed,STRAT-L78-VP01,48
+Stratford L78 Exit,Vikram Patel,Circuit validation_Adhoc,22-06-2025,24-06-2025,Jun,Completed,STRAT-L78-VP02,48
+Stratford L78 Exit,Priya Iyer,QC- Review,21-06-2025,23-06-2025,Jun,Completed,STRAT-L78-PI01,48
+Stratford L78 Exit,Priya Iyer,Circuit validation_Adhoc,23-06-2025,25-06-2025,Jun,Completed,STRAT-L78-PI02,48
+Stratford L78 Exit,Harish Gowda,QC- Review,22-06-2025,23-06-2025,Jun,Completed,STRAT-L78-HG01,24
+Stratford L78 Exit,Harish Gowda,Cramer Validation,23-06-2025,26-06-2025,Jun,Completed,STRAT-L78-HG02,72
